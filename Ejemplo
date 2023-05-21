@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Agencia de Marketing Digital</title>
+  <style>
+    /* Estilos CSS para la página web */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #f4f4f4;
+      padding: 10px;
+    }
+    nav ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    nav ul li {
+      display: inline-block;
+      margin-right: 10px;
+    }
+    nav ul li a {
+      color: #333;
+      text-decoration: none;
+      padding: 5px 10px;
+    }
+    section {
+      padding: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Agencia de Marketing Digital</h1>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="#gestion-redes-sociales">Gestión de Redes Sociales</a></li>
+      <li><a href="#creacion-paginas-web">Creación de Páginas Web</a></li>
+      <li><a href="#plan-comunicacion">Plan de Comunicación</a></li>
+      <li><a href="#creacion-contenido">Creación de Contenido</a></li>
+    </ul>
+  </nav>
+  <section id="gestion-redes-sociales">
+    <h2>Gestión de Redes Sociales</h2>
+    <p>Ofrecemos servicios de gestión de redes sociales para mejorar la presencia y el alcance de tu negocio en plataformas como Facebook, Twitter e Instagram.</p>
+  </section>
+  <section id="creacion-paginas-web">
+    <h2>Creación de Páginas Web</h2>
+    <p>Desarrollamos páginas web modernas y funcionales que se adaptan a tus necesidades y objetivos de negocio.</p>
+  </section>
+  <section id="plan-comunicacion">
+    <h2>Plan de Comunicación</h2>
+    <p>Diseñamos estrategias de comunicación efectivas para promover tu marca y llegar a tu público objetivo de manera eficiente.</p>
+  </section>
+  <section id="creacion-contenido">
+    <h2>Creación de Contenido</h2>
+    <p>Generamos contenido de calidad y relevante que atraiga y retenga la atención de tu audiencia, impulsando así tu presencia en línea.</p>
+  </section>
+</body>
+</html>
